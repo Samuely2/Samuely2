@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Hello!
-    <a href="https://www.linkedin.com/in/samuel-vinicius-6b1303227">I'm Samuel Vinicius 😃️</a>
+    <a href="https://www.linkedin.com/in/samuel-vinicius-6b1303227">I'm Samuel Vinicius :zap:</a>
   </h1>
   
   <p align="center">
